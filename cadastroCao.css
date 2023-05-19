@@ -157,6 +157,11 @@ body {
     justify-content: space-between;
   }
 
+ .info{
+  margin-top: 15px;
+ }
+
+
   footer {
     background-color: #152540;
     color: #fff;
